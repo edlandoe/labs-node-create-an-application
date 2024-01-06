@@ -22,7 +22,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": false
 },
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "codetour.promptForWorkspaceTours": false,
   "codetour.showMarkers": false,
   "codetour.customTourDirectory": ".auth0/lab/guides"
